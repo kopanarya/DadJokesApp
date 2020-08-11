@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DadJokesApp/static/css/main.c93e0e4a.chunk.css",
+    "main.js": "/DadJokesApp/static/js/main.fde1b415.chunk.js",
+    "main.js.map": "/DadJokesApp/static/js/main.fde1b415.chunk.js.map",
+    "runtime-main.js": "/DadJokesApp/static/js/runtime-main.beaea540.js",
+    "runtime-main.js.map": "/DadJokesApp/static/js/runtime-main.beaea540.js.map",
+    "static/js/2.877e69a2.chunk.js": "/DadJokesApp/static/js/2.877e69a2.chunk.js",
+    "static/js/2.877e69a2.chunk.js.map": "/DadJokesApp/static/js/2.877e69a2.chunk.js.map",
+    "index.html": "/DadJokesApp/index.html",
+    "precache-manifest.2181af64ff6e959bafd02b7a5c5255df.js": "/DadJokesApp/precache-manifest.2181af64ff6e959bafd02b7a5c5255df.js",
+    "service-worker.js": "/DadJokesApp/service-worker.js",
+    "static/css/main.c93e0e4a.chunk.css.map": "/DadJokesApp/static/css/main.c93e0e4a.chunk.css.map",
+    "static/js/2.877e69a2.chunk.js.LICENSE.txt": "/DadJokesApp/static/js/2.877e69a2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/DadJokesApp/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beaea540.js",
+    "static/js/2.877e69a2.chunk.js",
+    "static/css/main.c93e0e4a.chunk.css",
+    "static/js/main.fde1b415.chunk.js"
+  ]
+}
